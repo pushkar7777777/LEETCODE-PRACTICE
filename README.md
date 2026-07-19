@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1667-fix-names-in-a-table](https://github.com/pushkar7777777/LEETCODE-PRACTICE/tree/master/1667-fix-names-in-a-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/pushkar7777777/LEETCODE-PRACTICE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
